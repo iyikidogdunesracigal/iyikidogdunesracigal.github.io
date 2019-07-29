@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#heart{
+ margin-top: 30%;
+}
+#heart1{
+    margin-top: 50%;
+   }
+   
+#textK{
+    font-family: 'Caveat', cursive;
+    
+    margin-top: 45px;
+}
+
+#textP{
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+}
+
+.firework{
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+}
